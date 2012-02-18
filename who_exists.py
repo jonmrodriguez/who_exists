@@ -2,6 +2,9 @@
 
 """
 parse /etc/passwd to print a list of all usernames
+
+TODO debug: doesnt show users jon and jonr1 on my macbook air
+(I think the cause is that mac uses some auth system that circumvents /etc/passwd)
 """
 
 
